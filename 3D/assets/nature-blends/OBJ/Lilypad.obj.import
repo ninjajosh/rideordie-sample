@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Lilypad.obj-d5f60e83531b882c50e4a32b19b619ee.mesh"
+
+[deps]
+
+files=[ "res://.import/Lilypad.obj-d5f60e83531b882c50e4a32b19b619ee.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/Lilypad.obj"
+dest_files=[ "res://.import/Lilypad.obj-d5f60e83531b882c50e4a32b19b619ee.mesh", "res://.import/Lilypad.obj-d5f60e83531b882c50e4a32b19b619ee.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

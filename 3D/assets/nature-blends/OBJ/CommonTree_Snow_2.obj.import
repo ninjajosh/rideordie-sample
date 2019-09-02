@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/CommonTree_Snow_2.obj-1b7f6d19a0b4e2516f6a14d841ce545b.mesh"
+
+[deps]
+
+files=[ "res://.import/CommonTree_Snow_2.obj-1b7f6d19a0b4e2516f6a14d841ce545b.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/CommonTree_Snow_2.obj"
+dest_files=[ "res://.import/CommonTree_Snow_2.obj-1b7f6d19a0b4e2516f6a14d841ce545b.mesh", "res://.import/CommonTree_Snow_2.obj-1b7f6d19a0b4e2516f6a14d841ce545b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

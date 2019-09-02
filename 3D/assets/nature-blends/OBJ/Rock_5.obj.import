@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Rock_5.obj-35a3bf6066fc14cd64d92e521836f297.mesh"
+
+[deps]
+
+files=[ "res://.import/Rock_5.obj-35a3bf6066fc14cd64d92e521836f297.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/Rock_5.obj"
+dest_files=[ "res://.import/Rock_5.obj-35a3bf6066fc14cd64d92e521836f297.mesh", "res://.import/Rock_5.obj-35a3bf6066fc14cd64d92e521836f297.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

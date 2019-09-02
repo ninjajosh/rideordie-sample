@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/BirchTree_Dead_5.obj-746719d924fd3a02c6ba2e233d9506eb.mesh"
+
+[deps]
+
+files=[ "res://.import/BirchTree_Dead_5.obj-746719d924fd3a02c6ba2e233d9506eb.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/BirchTree_Dead_5.obj"
+dest_files=[ "res://.import/BirchTree_Dead_5.obj-746719d924fd3a02c6ba2e233d9506eb.mesh", "res://.import/BirchTree_Dead_5.obj-746719d924fd3a02c6ba2e233d9506eb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

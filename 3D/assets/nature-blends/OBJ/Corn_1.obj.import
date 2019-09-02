@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Corn_1.obj-66baad476f18e688518302444a1a86c7.mesh"
+
+[deps]
+
+files=[ "res://.import/Corn_1.obj-66baad476f18e688518302444a1a86c7.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/Corn_1.obj"
+dest_files=[ "res://.import/Corn_1.obj-66baad476f18e688518302444a1a86c7.mesh", "res://.import/Corn_1.obj-66baad476f18e688518302444a1a86c7.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

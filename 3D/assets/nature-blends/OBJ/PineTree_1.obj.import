@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/PineTree_1.obj-72f93541e2ad4b27cdaebccf8657b967.mesh"
+
+[deps]
+
+files=[ "res://.import/PineTree_1.obj-72f93541e2ad4b27cdaebccf8657b967.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/PineTree_1.obj"
+dest_files=[ "res://.import/PineTree_1.obj-72f93541e2ad4b27cdaebccf8657b967.mesh", "res://.import/PineTree_1.obj-72f93541e2ad4b27cdaebccf8657b967.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

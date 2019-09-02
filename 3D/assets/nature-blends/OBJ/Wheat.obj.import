@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Wheat.obj-1d2da65565b20e482db8762a9f7e687d.mesh"
+
+[deps]
+
+files=[ "res://.import/Wheat.obj-1d2da65565b20e482db8762a9f7e687d.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/Wheat.obj"
+dest_files=[ "res://.import/Wheat.obj-1d2da65565b20e482db8762a9f7e687d.mesh", "res://.import/Wheat.obj-1d2da65565b20e482db8762a9f7e687d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

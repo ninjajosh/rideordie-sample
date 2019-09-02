@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/CommonTree_Autumn_3.obj-b2b598fbacaca3b6f07dc3c51605bb71.mesh"
+
+[deps]
+
+files=[ "res://.import/CommonTree_Autumn_3.obj-b2b598fbacaca3b6f07dc3c51605bb71.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/CommonTree_Autumn_3.obj"
+dest_files=[ "res://.import/CommonTree_Autumn_3.obj-b2b598fbacaca3b6f07dc3c51605bb71.mesh", "res://.import/CommonTree_Autumn_3.obj-b2b598fbacaca3b6f07dc3c51605bb71.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

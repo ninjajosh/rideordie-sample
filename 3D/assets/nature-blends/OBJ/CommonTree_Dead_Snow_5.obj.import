@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/CommonTree_Dead_Snow_5.obj-09322202b8e78d109dc0b728998e165b.mesh"
+
+[deps]
+
+files=[ "res://.import/CommonTree_Dead_Snow_5.obj-09322202b8e78d109dc0b728998e165b.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/CommonTree_Dead_Snow_5.obj"
+dest_files=[ "res://.import/CommonTree_Dead_Snow_5.obj-09322202b8e78d109dc0b728998e165b.mesh", "res://.import/CommonTree_Dead_Snow_5.obj-09322202b8e78d109dc0b728998e165b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

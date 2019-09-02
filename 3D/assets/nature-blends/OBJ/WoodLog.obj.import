@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/WoodLog.obj-d1798dbe6ce32025ad818ae68b12f89c.mesh"
+
+[deps]
+
+files=[ "res://.import/WoodLog.obj-d1798dbe6ce32025ad818ae68b12f89c.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/WoodLog.obj"
+dest_files=[ "res://.import/WoodLog.obj-d1798dbe6ce32025ad818ae68b12f89c.mesh", "res://.import/WoodLog.obj-d1798dbe6ce32025ad818ae68b12f89c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/CommonTree_Dead_2.obj-5c40a70ad9ad69f4312eb65665b7a54a.mesh"
+
+[deps]
+
+files=[ "res://.import/CommonTree_Dead_2.obj-5c40a70ad9ad69f4312eb65665b7a54a.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/CommonTree_Dead_2.obj"
+dest_files=[ "res://.import/CommonTree_Dead_2.obj-5c40a70ad9ad69f4312eb65665b7a54a.mesh", "res://.import/CommonTree_Dead_2.obj-5c40a70ad9ad69f4312eb65665b7a54a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

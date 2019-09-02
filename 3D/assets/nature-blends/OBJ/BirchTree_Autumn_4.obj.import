@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/BirchTree_Autumn_4.obj-54ec1eeacce9f8df4b47398c34495199.mesh"
+
+[deps]
+
+files=[ "res://.import/BirchTree_Autumn_4.obj-54ec1eeacce9f8df4b47398c34495199.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/BirchTree_Autumn_4.obj"
+dest_files=[ "res://.import/BirchTree_Autumn_4.obj-54ec1eeacce9f8df4b47398c34495199.mesh", "res://.import/BirchTree_Autumn_4.obj-54ec1eeacce9f8df4b47398c34495199.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

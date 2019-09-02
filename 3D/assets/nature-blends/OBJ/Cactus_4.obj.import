@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Cactus_4.obj-0611f90f9a2fcfaf2fdb5c17dc17efde.mesh"
+
+[deps]
+
+files=[ "res://.import/Cactus_4.obj-0611f90f9a2fcfaf2fdb5c17dc17efde.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/Cactus_4.obj"
+dest_files=[ "res://.import/Cactus_4.obj-0611f90f9a2fcfaf2fdb5c17dc17efde.mesh", "res://.import/Cactus_4.obj-0611f90f9a2fcfaf2fdb5c17dc17efde.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

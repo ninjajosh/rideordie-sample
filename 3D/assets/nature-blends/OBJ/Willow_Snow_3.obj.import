@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Willow_Snow_3.obj-3351c056fe20d8d9748a015f6cc4c197.mesh"
+
+[deps]
+
+files=[ "res://.import/Willow_Snow_3.obj-3351c056fe20d8d9748a015f6cc4c197.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/Willow_Snow_3.obj"
+dest_files=[ "res://.import/Willow_Snow_3.obj-3351c056fe20d8d9748a015f6cc4c197.mesh", "res://.import/Willow_Snow_3.obj-3351c056fe20d8d9748a015f6cc4c197.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

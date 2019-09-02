@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Willow_Dead_5.obj-976a6894bf138bd10007b7e6136d5772.mesh"
+
+[deps]
+
+files=[ "res://.import/Willow_Dead_5.obj-976a6894bf138bd10007b7e6136d5772.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/Willow_Dead_5.obj"
+dest_files=[ "res://.import/Willow_Dead_5.obj-976a6894bf138bd10007b7e6136d5772.mesh", "res://.import/Willow_Dead_5.obj-976a6894bf138bd10007b7e6136d5772.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

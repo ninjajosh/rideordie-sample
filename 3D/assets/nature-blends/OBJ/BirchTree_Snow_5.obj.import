@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/BirchTree_Snow_5.obj-dbc4907fdf6f6632332f5718311ed0d5.mesh"
+
+[deps]
+
+files=[ "res://.import/BirchTree_Snow_5.obj-dbc4907fdf6f6632332f5718311ed0d5.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/BirchTree_Snow_5.obj"
+dest_files=[ "res://.import/BirchTree_Snow_5.obj-dbc4907fdf6f6632332f5718311ed0d5.mesh", "res://.import/BirchTree_Snow_5.obj-dbc4907fdf6f6632332f5718311ed0d5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

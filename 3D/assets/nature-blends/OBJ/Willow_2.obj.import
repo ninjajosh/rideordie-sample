@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Willow_2.obj-ad44b53939df1ac60b991aeef6e3d049.mesh"
+
+[deps]
+
+files=[ "res://.import/Willow_2.obj-ad44b53939df1ac60b991aeef6e3d049.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/Willow_2.obj"
+dest_files=[ "res://.import/Willow_2.obj-ad44b53939df1ac60b991aeef6e3d049.mesh", "res://.import/Willow_2.obj-ad44b53939df1ac60b991aeef6e3d049.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

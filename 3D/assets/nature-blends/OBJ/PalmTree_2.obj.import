@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/PalmTree_2.obj-bdcf2f849e9a7745955f7a9936d5a664.mesh"
+
+[deps]
+
+files=[ "res://.import/PalmTree_2.obj-bdcf2f849e9a7745955f7a9936d5a664.mesh" ]
+
+source_file="res://assets/nature-blends/OBJ/PalmTree_2.obj"
+dest_files=[ "res://.import/PalmTree_2.obj-bdcf2f849e9a7745955f7a9936d5a664.mesh", "res://.import/PalmTree_2.obj-bdcf2f849e9a7745955f7a9936d5a664.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
