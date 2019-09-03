@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Spikes.obj-5889fcc27c193486f613e5e3fcae5c5e.mesh"
+
+[deps]
+
+files=[ "res://.import/Spikes.obj-5889fcc27c193486f613e5e3fcae5c5e.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Spikes.obj"
+dest_files=[ "res://.import/Spikes.obj-5889fcc27c193486f613e5e3fcae5c5e.mesh", "res://.import/Spikes.obj-5889fcc27c193486f613e5e3fcae5c5e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

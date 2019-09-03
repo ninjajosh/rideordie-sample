@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Chest_Gold.obj-2b131ccb7c073a669c20b25fadba8371.mesh"
+
+[deps]
+
+files=[ "res://.import/Chest_Gold.obj-2b131ccb7c073a669c20b25fadba8371.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Chest_Gold.obj"
+dest_files=[ "res://.import/Chest_Gold.obj-2b131ccb7c073a669c20b25fadba8371.mesh", "res://.import/Chest_Gold.obj-2b131ccb7c073a669c20b25fadba8371.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

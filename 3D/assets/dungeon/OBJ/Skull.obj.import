@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Skull.obj-c40607c85871099ea7d5232eb413244a.mesh"
+
+[deps]
+
+files=[ "res://.import/Skull.obj-c40607c85871099ea7d5232eb413244a.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Skull.obj"
+dest_files=[ "res://.import/Skull.obj-c40607c85871099ea7d5232eb413244a.mesh", "res://.import/Skull.obj-c40607c85871099ea7d5232eb413244a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Table_Big.obj-dcb0622c95d3d724c7bbe2b22f3737c9.mesh"
+
+[deps]
+
+files=[ "res://.import/Table_Big.obj-dcb0622c95d3d724c7bbe2b22f3737c9.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Table_Big.obj"
+dest_files=[ "res://.import/Table_Big.obj-dcb0622c95d3d724c7bbe2b22f3737c9.mesh", "res://.import/Table_Big.obj-dcb0622c95d3d724c7bbe2b22f3737c9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

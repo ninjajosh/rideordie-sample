@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Wall_Modular.obj-f1bd445580521abf2de441406bef681b.mesh"
+
+[deps]
+
+files=[ "res://.import/Wall_Modular.obj-f1bd445580521abf2de441406bef681b.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Wall_Modular.obj"
+dest_files=[ "res://.import/Wall_Modular.obj-f1bd445580521abf2de441406bef681b.mesh", "res://.import/Wall_Modular.obj-f1bd445580521abf2de441406bef681b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

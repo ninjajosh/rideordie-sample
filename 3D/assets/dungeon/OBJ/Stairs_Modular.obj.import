@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stairs_Modular.obj-5da7baee0bf8f2e3a2699355ad85103b.mesh"
+
+[deps]
+
+files=[ "res://.import/Stairs_Modular.obj-5da7baee0bf8f2e3a2699355ad85103b.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Stairs_Modular.obj"
+dest_files=[ "res://.import/Stairs_Modular.obj-5da7baee0bf8f2e3a2699355ad85103b.mesh", "res://.import/Stairs_Modular.obj-5da7baee0bf8f2e3a2699355ad85103b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

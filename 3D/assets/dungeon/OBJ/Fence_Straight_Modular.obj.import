@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Fence_Straight_Modular.obj-510417e1824054290c85ce5cba1c2f53.mesh"
+
+[deps]
+
+files=[ "res://.import/Fence_Straight_Modular.obj-510417e1824054290c85ce5cba1c2f53.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Fence_Straight_Modular.obj"
+dest_files=[ "res://.import/Fence_Straight_Modular.obj-510417e1824054290c85ce5cba1c2f53.mesh", "res://.import/Fence_Straight_Modular.obj-510417e1824054290c85ce5cba1c2f53.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

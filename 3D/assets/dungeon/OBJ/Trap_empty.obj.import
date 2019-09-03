@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Trap_empty.obj-001706297725c213fc3136e4284897aa.mesh"
+
+[deps]
+
+files=[ "res://.import/Trap_empty.obj-001706297725c213fc3136e4284897aa.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Trap_empty.obj"
+dest_files=[ "res://.import/Trap_empty.obj-001706297725c213fc3136e4284897aa.mesh", "res://.import/Trap_empty.obj-001706297725c213fc3136e4284897aa.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Woodfire.obj-4f2ab4eb82e4f8a1ac204fec5c53cb96.mesh"
+
+[deps]
+
+files=[ "res://.import/Woodfire.obj-4f2ab4eb82e4f8a1ac204fec5c53cb96.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Woodfire.obj"
+dest_files=[ "res://.import/Woodfire.obj-4f2ab4eb82e4f8a1ac204fec5c53cb96.mesh", "res://.import/Woodfire.obj-4f2ab4eb82e4f8a1ac204fec5c53cb96.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

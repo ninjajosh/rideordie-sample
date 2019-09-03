@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Coin_Pile.obj-1a40492eb9ae855c312aa570bdaf6f51.mesh"
+
+[deps]
+
+files=[ "res://.import/Coin_Pile.obj-1a40492eb9ae855c312aa570bdaf6f51.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Coin_Pile.obj"
+dest_files=[ "res://.import/Coin_Pile.obj-1a40492eb9ae855c312aa570bdaf6f51.mesh", "res://.import/Coin_Pile.obj-1a40492eb9ae855c312aa570bdaf6f51.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

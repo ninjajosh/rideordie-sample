@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Decorative_Wall.obj-6b97f60e175363eb0f3f813ce3ed1802.mesh"
+
+[deps]
+
+files=[ "res://.import/Decorative_Wall.obj-6b97f60e175363eb0f3f813ce3ed1802.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Decorative_Wall.obj"
+dest_files=[ "res://.import/Decorative_Wall.obj-6b97f60e175363eb0f3f813ce3ed1802.mesh", "res://.import/Decorative_Wall.obj-6b97f60e175363eb0f3f813ce3ed1802.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

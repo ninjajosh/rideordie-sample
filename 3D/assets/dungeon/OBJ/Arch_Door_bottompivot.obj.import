@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Arch_Door_bottompivot.obj-641bc2a58a06e83efe48fa5661c2ae38.mesh"
+
+[deps]
+
+files=[ "res://.import/Arch_Door_bottompivot.obj-641bc2a58a06e83efe48fa5661c2ae38.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Arch_Door_bottompivot.obj"
+dest_files=[ "res://.import/Arch_Door_bottompivot.obj-641bc2a58a06e83efe48fa5661c2ae38.mesh", "res://.import/Arch_Door_bottompivot.obj-641bc2a58a06e83efe48fa5661c2ae38.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

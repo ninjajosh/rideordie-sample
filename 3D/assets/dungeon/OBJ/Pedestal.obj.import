@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Pedestal.obj-70411c71f03910a262c6dd6ca20a909f.mesh"
+
+[deps]
+
+files=[ "res://.import/Pedestal.obj-70411c71f03910a262c6dd6ca20a909f.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Pedestal.obj"
+dest_files=[ "res://.import/Pedestal.obj-70411c71f03910a262c6dd6ca20a909f.mesh", "res://.import/Pedestal.obj-70411c71f03910a262c6dd6ca20a909f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

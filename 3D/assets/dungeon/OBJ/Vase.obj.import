@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Vase.obj-3cbb38a7ccdfeed9e2c69fadf31ca72c.mesh"
+
+[deps]
+
+files=[ "res://.import/Vase.obj-3cbb38a7ccdfeed9e2c69fadf31ca72c.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Vase.obj"
+dest_files=[ "res://.import/Vase.obj-3cbb38a7ccdfeed9e2c69fadf31ca72c.mesh", "res://.import/Vase.obj-3cbb38a7ccdfeed9e2c69fadf31ca72c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

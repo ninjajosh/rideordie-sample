@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Floor_BricksSeparate.obj-1bdfac59f12a459c6d43d758b81f37f9.mesh"
+
+[deps]
+
+files=[ "res://.import/Floor_BricksSeparate.obj-1bdfac59f12a459c6d43d758b81f37f9.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Floor_BricksSeparate.obj"
+dest_files=[ "res://.import/Floor_BricksSeparate.obj-1bdfac59f12a459c6d43d758b81f37f9.mesh", "res://.import/Floor_BricksSeparate.obj-1bdfac59f12a459c6d43d758b81f37f9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

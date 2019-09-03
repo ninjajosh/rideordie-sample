@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Sword_WallMount.obj-04b985b62fb566b32e06caed09d46094.mesh"
+
+[deps]
+
+files=[ "res://.import/Sword_WallMount.obj-04b985b62fb566b32e06caed09d46094.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Sword_WallMount.obj"
+dest_files=[ "res://.import/Sword_WallMount.obj-04b985b62fb566b32e06caed09d46094.mesh", "res://.import/Sword_WallMount.obj-04b985b62fb566b32e06caed09d46094.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

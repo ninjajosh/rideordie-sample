@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Arch.obj-cd0cbbfb42ca1b2f2ba87259950991ab.mesh"
+
+[deps]
+
+files=[ "res://.import/Arch.obj-cd0cbbfb42ca1b2f2ba87259950991ab.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Arch.obj"
+dest_files=[ "res://.import/Arch.obj-cd0cbbfb42ca1b2f2ba87259950991ab.mesh", "res://.import/Arch.obj-cd0cbbfb42ca1b2f2ba87259950991ab.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Banner_wall.obj-49607d9bde978e04a547e1d48595ecec.mesh"
+
+[deps]
+
+files=[ "res://.import/Banner_wall.obj-49607d9bde978e04a547e1d48595ecec.mesh" ]
+
+source_file="res://assets/dungeon/OBJ/Banner_wall.obj"
+dest_files=[ "res://.import/Banner_wall.obj-49607d9bde978e04a547e1d48595ecec.mesh", "res://.import/Banner_wall.obj-49607d9bde978e04a547e1d48595ecec.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
